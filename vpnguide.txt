@@ -42,14 +42,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"helper mod 1","desc":"Nextbot is a popular software tool that enables game developers to create highly intelligent, autonomous entities that can interact with players in a variety of ways. ","photo":"https://iili.io/HU3NEN9.jpg"},
+  {"title":"tips pack 2","desc":"One common application of Nextbot is in creating AI-controlled opponents for players to face off against in games like first-person shooters, racing games, and fighting games.","photo":"https://iili.io/HU3NXPj.jpg"},
+  {"title":"advice mod 3","desc":"In the world of online gaming, one game that has become increasingly popular is Friday Night Funkin', or FNF for short. FNF is a rhythm-based music game that has gained a massive following due to its catchy soundtrack,","photo":"https://iili.io/HU3N1A7.jpg"},
+  {"title":"how to use this app 4","desc":" unique characters, and challenging gameplay. FNF MODs are custom-made modifications of the game that add new characters, songs, and challenges to the base game.","photo":"https://iili.io/HU3NGte.jpg"},
+  {"title":"advance pack 5","desc":"One popular FNF MOD that has caught the attention of players and game developers alike is the Nextbot Chasing FNF MOD. In this MOD, players must face off against a highly intelligent and ruthless Nextbot that is programmed to chase them down and defeat them in musical combat. ","photo":"https://iili.io/HU3NVou.jpg"},
+  {"title":"tips mod 6","desc":" The Nextbot is controlled by advanced AI algorithms that enable it to adapt to the player's strategies and movements, making it an incredibly challenging opponent to face off against.","photo":"https://iili.io/HU3NWMb.jpg"},
+  {"title":"helper pack 7","desc":" The Nextbot is controlled by advanced AI algorithms that enable it to adapt to the player's strategies and movements, making it an incredibly challenging opponent to face off against.","photo":"https://iili.io/HU3NjKx.jpg"},
+  {"title":"advice mod 8","desc":"The Nextbot Chasing FNF MOD is a game mode that adds a new challenge to the FNF gameplay experience. In this mode, players must face off against the Nextbot, a highly intelligent and adaptive AI opponent that will stop at nothing to defeat them.","photo":"https://iili.io/HU3NwcQ.jpg"}
    ]
  
 }
